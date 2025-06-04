@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋! My name is Marvin Fegi
 
 About me
 - 🌱 I'm currently Computer Engineering 3rd year student in Colegio de Montalban
