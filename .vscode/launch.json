@@ -8,7 +8,7 @@
       "type": "wasm-chrome",
       "request": "launch",
       "name": "WebAssembly Debug on Chrome",
-      "url": "http://localhost:5500"
+      "url": "http://localhost:8800"
     }
   ]
 }
