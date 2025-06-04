@@ -1,5 +1,11 @@
 # Hi there 👋
 
+About me
+- 🌱 I'm currently Computer Engineering 3rd year student in Colegio de Montalban
+- 👀 I’m interested in Frontend Design HTML, CSS, JAVASCRIPT, REACT and my backend is PHP, NODE.js, SQL, FIREBASE
+- 📚 My Frameworks i was learn is Tailwind, Bootstrap
+- 🎯 Short-term Goals: To create Design
+- 🎯 Long-term Goals: is a backend dev admin
 <!--
 **zaivin-frontend/zaivin-frontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
