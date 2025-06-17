@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-scroll";
-import "../styles/Navbar.css";
-import { initMobileMenu, initNavigation } from "../utils/portfolio";
+import "../style/Navbar.css";
+import { initMobileMenu, initNavigation } from "../utils/portfolio.js";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);

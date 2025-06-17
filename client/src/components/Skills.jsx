@@ -1,9 +1,9 @@
 import React, { useEffect } from "react";
-import "../styles/Skills.css";
+import "../style/Skills.css";
 import {
   initScrollAnimations,
   initSkillProgressBars,
-} from "../utils/portfolio";
+} from "../utils/portfolio.js";
 
 const Skills = () => {
   useEffect(() => {

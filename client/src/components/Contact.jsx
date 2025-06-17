@@ -1,7 +1,7 @@
 import emailjs from "@emailjs/browser";
 import React, { useEffect, useRef, useState } from "react";
-import "../styles/Contact.css";
-import { initScrollAnimations, showNotification } from "../utils/portfolio";
+import "../style/Contact.css";
+import { initScrollAnimations, showNotification } from "../utils/portfolio.js";
 
 const Contact = () => {
   const form = useRef();

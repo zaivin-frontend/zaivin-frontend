@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Link } from "react-scroll";
-import "../styles/Footer.css";
-import { initScrollIndicator } from "../utils/portfolio";
+import "../style/Footer.css";
+import { initScrollIndicator } from "../utils/portfolio.js";
 
 const Footer = () => {
   useEffect(() => {

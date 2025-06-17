@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import "../styles/Projects.css";
-import { initScrollAnimations } from "../utils/portfolio";
+import "../style/Projects.css";
+import { initScrollAnimations } from "../utils/portfolio.js";
 
 const Projects = () => {
   useEffect(() => {

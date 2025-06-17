@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import "../styles/Experience.css";
-import { initScrollAnimations } from "../utils/portfolio";
+import "../style/Experience.css";
+import { initScrollAnimations } from "../utils/portfolio.js";
 
 const Experience = () => {
   useEffect(() => {

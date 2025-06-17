@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { Link } from "react-scroll";
-import "../styles/Hero.css";
-import { initParticles, initScrollAnimations } from "../utils/portfolio";
+import "../style/Hero.css";
+import { initParticles, initScrollAnimations } from "../utils/portfolio.js";
 
 const Hero = () => {
   const [text, setText] = useState("");
